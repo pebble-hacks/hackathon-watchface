@@ -17,7 +17,7 @@ var hackathon_logo = new UI.Image({
   position: new Vector2(0, 0),
   size: new Vector2(144, 144),
   backgroundColor: 'clear',
-  image: 'images/pebble.png',
+  image: 'images/hackthenorth.png',
 });
 
 wind.add(hackathon_logo);
