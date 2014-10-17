@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "girlgrammer",
-    "longName": "hackathon-watchface",
+    "longName": "Hack the North Watchface",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -36,7 +36,7 @@
             }
         ]
     },
-    "shortName": "hackathon-watchface",
+    "shortName": "Hack the North",
     "uuid": "7c46d361-b4fa-492c-99e2-211d6aed4d0f",
     "versionCode": 1,
     "versionLabel": "1.0",
