@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "girlgrammer",
-    "longName": "hackathon-watchface",
+    "longName": "BoilerMake Watchface",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -36,7 +36,7 @@
             }
         ]
     },
-    "shortName": "hackathon-watchface",
+    "shortName": "BoilerMake",
     "uuid": "7c46d361-b4fa-492c-99e2-211d6aed4d0f",
     "versionCode": 1,
     "versionLabel": "1.0",
